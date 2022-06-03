@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "红蜘蛛、极域、gakataka破解.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 3,1,2,4
+PRODUCTVERSION 3,1,2,4
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "080404E4"
+    {
+      VALUE "CompanyName", "Crack"
+      VALUE "FileVersion", "3.1.2.4"
+      VALUE "FileDescription", "电子教室软件控制破解程序"
+      VALUE "InternalName", "各类电子教室软件破解程序"
+      VALUE "LegalCopyright", ""
+      VALUE "LegalTrademarks", ""
+      VALUE "OriginalFilename", "电子教室.crack.exe"
+      VALUE "ProductName", "各类电子教室软件破解程序"
+      VALUE "ProductVersion", "3.1.2.4"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0804, 1252
+  }
+}
