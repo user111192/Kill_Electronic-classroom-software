@@ -17,6 +17,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Error Log**
+填写错误日志。
+
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
@@ -24,9 +27,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [e.g. Windows]
+ - E. C. S. : [e.g. Red Spider, Gakataka]
+ - Version [e.g. 3]
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
