@@ -10,6 +10,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/user111192/Kill_Electronic-classroom-software)
 ![Liberapay giving](https://img.shields.io/liberapay/gives/admin_chen777)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2021/user111192/Kill_Electronic-classroom-software)
+![GitHub Discussions](https://img.shields.io/github/discussions/user111192/Kill_Electronic-classroom-software)
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/user111192/Kill_Electronic-classroom-software?include_prereleases)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/user111192/Kill_Electronic-classroom-software)
