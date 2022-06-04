@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/network)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/user111192/Kill_Electronic-classroom-software)
+![GitHub commit checks state](https://img.shields.io/github/checks-status/user111192/Kill_Electronic-classroom-software/main)
 
 Docs: [![pages-build-deployment](https://github.com/user111192/Kill_Electronic-classroom-software/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/user111192/Kill_Electronic-classroom-software/actions/workflows/pages/pages-build-deployment)
 
