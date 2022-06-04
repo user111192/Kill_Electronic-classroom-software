@@ -19,4 +19,4 @@ Docs: [![pages-build-deployment](https://github.com/user111192/Kill_Electronic-c
 
 反击各种电子教室软件
 # 源码来源
-[忘了](about:blank)
+[忘了](https://blog.csdn.net/weixin_39891845/article/details/96847407)
