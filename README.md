@@ -7,6 +7,7 @@
 ![GitHub commit checks state](https://img.shields.io/github/checks-status/user111192/Kill_Electronic-classroom-software/main)
 ![GitHub language count](https://img.shields.io/github/languages/count/user111192/Kill_Electronic-classroom-software)
 ![Liberapay giving](https://img.shields.io/liberapay/gives/admin_chen777)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2021/user111192/Kill_Electronic-classroom-software)
 
 Docs: [![pages-build-deployment](https://github.com/user111192/Kill_Electronic-classroom-software/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/user111192/Kill_Electronic-classroom-software/actions/workflows/pages/pages-build-deployment)
 
