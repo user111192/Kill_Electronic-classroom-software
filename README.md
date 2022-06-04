@@ -1,6 +1,7 @@
 # Kill_Electronic-classroom-software
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/user111192/Kill_Electronic-classroom-software/v3.1/total)](https://github.com/user111192/Kill_Electronic-classroom-software/releases)
 [![GitHub issues](https://img.shields.io/github/issues/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub forks](https://img.shields.io/github/forks/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/network)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/user111192/Kill_Electronic-classroom-software)
