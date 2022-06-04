@@ -3,6 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub forks](https://img.shields.io/github/forks/user111192/Kill_Electronic-classroom-software)](https://github.com/user111192/Kill_Electronic-classroom-software/network)
+![GitHub milestones](https://img.shields.io/github/milestones/all/user111192/Kill_Electronic-classroom-software)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/user111192/Kill_Electronic-classroom-software)
 ![GitHub commit checks state](https://img.shields.io/github/checks-status/user111192/Kill_Electronic-classroom-software/main)
