@@ -21,7 +21,7 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
 <div id="half"></div>
-# 安全策略
+# 安全政策
 
 ## 支持的版本
 
